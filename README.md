@@ -43,7 +43,7 @@ This is my [website](https://www.m-yasser-h.ml/) a
 
 This is a `coding line` right.
 
-```ts
+```diff
 -const name1 = abc;
 +const name1 = abc;
 const name2 = xyz;
