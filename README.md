@@ -1,6 +1,17 @@
 # Masterx AI 
 ![12](https://user-images.githubusercontent.com/54996245/143405182-2c6b93d1-b9fb-44a4-a4c6-43cdbabf88f3.jpg)
 
+*I am passionate about Artificial Intelligence & Machine Learning Advancements.*
+
+*With over 2+ years of hands-on experience in leading industry projects, I do possess a strong foundation in Mathematics & Statistics, and high competency in Predictive Modeling, Complex Data Processing & Algorithm Development. And I'm ardent to solve real-world problems.*
+
+*The journey started with curiosity. So I began to acquire core knowledge to understand the true potential of AI.
+Exploring further by pursuing Master's in AI from IIIT & Liverpool John Moore's University. Furthermore, I have done innumerable research from various sources and completed multiple certifications programs.*
+
+***Yet, the passion grows with the aim of lifelong learning towards shaping the future!***
+
+𝒀𝒆𝒕, 𝒕𝒉𝒆 𝒑𝒂𝒔𝒔𝒊𝒐𝒏 𝒈𝒓𝒐𝒘𝒔 𝒘𝒊𝒕𝒉 𝒕𝒉𝒆 𝒂𝒊𝒎 𝒐𝒇 𝒍𝒊𝒇𝒆𝒍𝒐𝒏𝒈 𝒍𝒆𝒂𝒓𝒏𝒊𝒏𝒈 𝒕𝒐𝒘𝒂𝒓𝒅𝒔 𝒔𝒉𝒂𝒑𝒊𝒏𝒈 𝒕𝒉𝒆 𝑭𝒖𝒕𝒖𝒓𝒆!
+
 <!--
 **Masterx-AI/Masterx-AI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -55,8 +66,17 @@ const name2 = xyz;
 
 New additions
 
+>This is a Quote
 
+And I have written it
 
+<!-- Comment -->
+
+<details>
+  <summary>More Details</summary>
+  Add more details here
+  `nsjfankjakj`
+</details>
 
 
 
