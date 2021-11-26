@@ -1,8 +1,8 @@
 # Masterx AI  
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=masterx-ai&show_icons=true&theme=tokyonight">
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=masterx-ai&theme=tokyonight">
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=masterx-ai&show_icons=true&theme=tokyonight">
+  <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=masterx-ai&theme=tokyonight">
 </p>
 
 𝐻𝑖, 𝑚𝑦 𝑛𝑎𝑚𝑒 𝑖𝑠 𝑌𝑎𝑠𝑠𝑒𝑟, 𝐼'𝑚 𝑎𝑛 𝐴𝐼 & 𝑀𝐿 𝐸𝑛𝑔𝑖𝑛𝑒𝑒𝑟.
