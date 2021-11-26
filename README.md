@@ -12,20 +12,19 @@
 
 𝒀𝒆𝒕, 𝒕𝒉𝒆 𝒑𝒂𝒔𝒔𝒊𝒐𝒏 𝒈𝒓𝒐𝒘𝒔 𝒘𝒊𝒕𝒉 𝒕𝒉𝒆 𝒂𝒊𝒎 𝒐𝒇 𝒍𝒊𝒇𝒆𝒍𝒐𝒏𝒈 𝒍𝒆𝒂𝒓𝒏𝒊𝒏𝒈 𝒕𝒐𝒘𝒂𝒓𝒅𝒔 𝒔𝒉𝒂𝒑𝒊𝒏𝒈 𝒕𝒉𝒆 𝒇𝒖𝒕𝒖𝒓𝒆!🧐
 
-------
+---
 
 <p align="center">
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=masterx-ai&show_icons=true&theme=tokyonight">
   <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=masterx-ai&theme=tokyonight">
 </p>
 
+<p align="center">
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=masterx-ai&langs_count=8">
+</p>
+
 -----
 
 ![001](https://user-images.githubusercontent.com/54996245/142931400-7d42cb74-b138-414d-9e57-76a7296c07c5.png)
+
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masterx-ai&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masterx-ai&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
