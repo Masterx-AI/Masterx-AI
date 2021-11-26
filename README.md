@@ -1,6 +1,11 @@
 # Masterx AI  
 
 <p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=masterx-ai&show_icons=true&theme=tokyonight">
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=masterx-ai&theme=tokyonight">
+</p>
+
+<p align="center">
   <img width="100%" src="https://user-images.githubusercontent.com/54996245/143405182-2c6b93d1-b9fb-44a4-a4c6-43cdbabf88f3.jpg">
 </p>
 
@@ -18,10 +23,7 @@
 ![001](https://user-images.githubusercontent.com/54996245/142931400-7d42cb74-b138-414d-9e57-76a7296c07c5.png)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=masterx-ai&show_icons=true&theme=tokyonight">
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=masterx-ai&theme=tokyonight">
-</p>
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masterx-ai&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
