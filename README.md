@@ -15,7 +15,8 @@
 
 𝒀𝒆𝒕, 𝒕𝒉𝒆 𝒑𝒂𝒔𝒔𝒊𝒐𝒏 𝒈𝒓𝒐𝒘𝒔 𝒘𝒊𝒕𝒉 𝒕𝒉𝒆 𝒂𝒊𝒎 𝒐𝒇 𝒍𝒊𝒇𝒆𝒍𝒐𝒏𝒈 𝒍𝒆𝒂𝒓𝒏𝒊𝒏𝒈 𝒕𝒐𝒘𝒂𝒓𝒅𝒔 𝒔𝒉𝒂𝒑𝒊𝒏𝒈 𝒕𝒉𝒆 𝒇𝒖𝒕𝒖𝒓𝒆!
 
-
+![001](https://user-images.githubusercontent.com/54996245/142931400-7d42cb74-b138-414d-9e57-76a7296c07c5.png)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=masterx-ai&show_icons=true&theme=tokyonight">
@@ -43,14 +44,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-a
-https://www.m-yasser-h.ml/
--->
 
-This is my [website](https://www.m-yasser-h.ml/) a
 
-<!--
-![001](https://user-images.githubusercontent.com/54996245/142931400-7d42cb74-b138-414d-9e57-76a7296c07c5.png)
 -->
 
 1. a
