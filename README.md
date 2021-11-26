@@ -20,7 +20,7 @@
 </p>
 
 <p align="center">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=masterx-ai&langs_count=8">
+  <img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=masterx-ai&langs_count=8">
 </p>
 
 -----
