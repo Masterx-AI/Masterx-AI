@@ -13,16 +13,20 @@
 𝒀𝒆𝒕, 𝒕𝒉𝒆 𝒑𝒂𝒔𝒔𝒊𝒐𝒏 𝒈𝒓𝒐𝒘𝒔 𝒘𝒊𝒕𝒉 𝒕𝒉𝒆 𝒂𝒊𝒎 𝒐𝒇 𝒍𝒊𝒇𝒆𝒍𝒐𝒏𝒈 𝒍𝒆𝒂𝒓𝒏𝒊𝒏𝒈 𝒕𝒐𝒘𝒂𝒓𝒅𝒔 𝒔𝒉𝒂𝒑𝒊𝒏𝒈 𝒕𝒉𝒆 𝒇𝒖𝒕𝒖𝒓𝒆!🧐
 
 ---
+<p align="center">
+  𝑷𝒓𝒐𝒈𝒓𝒆𝒔𝒔 𝑺𝒕𝒂𝒕𝒔:
+</p>
 
 <p align="center">
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=masterx-ai&show_icons=true&theme=tokyonight">
   <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=masterx-ai&theme=tokyonight">
 </p>
 
+<!--
 <p align="center">
   <img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=masterx-ai&langs_count=8">
 </p>
-
+-->
 -----
 
 <p align="center">
