@@ -23,11 +23,10 @@
   <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=masterx-ai&theme=tokyonight">
 </p>
 
-<!--
 <p align="center">
-  <img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=masterx-ai&langs_count=8">
+  <img width="70%" src="https://activity-graph.herokuapp.com/graph?username=masterx-ai&theme=react-dark&hide_border=true&area=true">
 </p>
--->
+
 -----
 
 <p align="center">
