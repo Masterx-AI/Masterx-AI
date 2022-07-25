@@ -23,9 +23,9 @@
   <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=masterx-ai&theme=tokyonight">
 </p>
 
-<p align="center">
+<!--p align="center">
   <img width="70%" src="https://activity-graph.herokuapp.com/graph?username=masterx-ai&theme=react-dark&hide_border=true&area=true">
-</p>
+</p-->
 
 -----
 
