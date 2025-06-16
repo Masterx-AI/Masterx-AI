@@ -19,8 +19,8 @@
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=masterx-ai&show_icons=true&theme=tokyonight">
-  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=masterx-ai&theme=tokyonight">
+  <img width="44%" src="https://github-readme-stats.vercel.app/api?username=masterx-ai&show_icons=true&theme=tokyonight">
+  <img width="55%" src="https://github-readme-streak-stats.herokuapp.com/?user=masterx-ai&theme=tokyonight">
 </p>
 
 <!--p align="center">
