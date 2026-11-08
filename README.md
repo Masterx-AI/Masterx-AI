@@ -1,4 +1,4 @@
-# 𝑴𝒂𝒔𝒕𝒆𝒓𝒙 𝑨𝑰
+## 𝑴𝒂𝒔𝒕𝒆𝒓𝒙 𝑨𝑰
 
 
 𝐻𝑖, 𝑚𝑦 𝑛𝑎𝑚𝑒 𝑖𝑠 𝑌𝑎𝑠𝑠𝑒𝑟, 𝑎𝑛 𝐴𝐼 & 𝑀𝐿 𝐸𝑛𝑡ℎ𝑢𝑠𝑖𝑎𝑠𝑡!😀
@@ -40,4 +40,4 @@
 
 <p align="center">𝑭𝒆𝒆𝒍 𝒇𝒓𝒆𝒆 𝒕𝒐 𝒈𝒆𝒕 𝒊𝒏 𝒕𝒐𝒖𝒄𝒉:</p>
 
-<p align="center" href="https://mail.google.com/mail/?view=cm&fs=1&to=mail.yasser.h@gmail.com"> 𝐸𝑚𝑎𝑖𝑙: 𝑚𝑎𝑖𝑙.𝑦𝑎𝑠𝑠𝑒𝑟.ℎ@𝑔𝑚𝑎𝑖𝑙.𝑐𝑜𝑚 <br> 𝐿𝑖𝑛𝑘𝑒𝑑𝐼𝑛: 𝑤𝑤𝑤.𝑙𝑖𝑛𝑘𝑒𝑑𝑖𝑛.𝑐𝑜𝑚/𝑖𝑛/𝑚𝑦𝑎𝑠𝑠𝑒𝑟ℎ/</p>
+<p align="center" href="https://mail.google.com/mail/?view=cm&fs=1&to=mail.yasser.h@gmail.com"> 𝐸𝑚𝑎𝑖𝑙: 𝑚𝑎𝑖𝑙.𝑦𝑎𝑠𝑠𝑒𝑟.ℎ@𝑔𝑚𝑎𝑖𝑙.𝑐𝑜𝑚 <br> 𝐿𝑖𝑛𝑘𝑒𝑑𝐼𝑛: 𝑤𝑤𝑤.𝑙𝑖𝑛𝑘𝑒𝑑𝑖𝑛.𝑐𝑜𝑚/𝑖𝑛/𝑚𝑦𝑎𝑠𝑠𝑒𝑟ℎ</p>
